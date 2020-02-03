@@ -1,0 +1,69 @@
+# OSX cruft
+*.orig
+.DS_Store
+
+# Python cruft
+__pycache__
+*.py[co]
+.pytest_cache/
+.mypy_cache/
+
+# JavaScript Cruft
+package-lock.json
+yarn-error.log
+
+# Java cruft
+abstract_rpq_message_container.touch
+
+# Cython files
+/build
+*.c
+*.so
+src/lib/_itertools.c
+
+# Database dumps
+*.pgdump
+dump.rdb
+
+# Dirs to keep outside version control
+/.direnv
+/.hypothesis
+/bower_components
+/cov_annotate
+/data
+/logs
+**/node_modules
+/static
+/schema
+
+# Unit test / coverage reports
+.tox
+.coverage
+.cache
+.jest
+tests/reports/
+coverage/
+
+# iPython Notebooks
+*.ipynb
+
+/.github_token
+
+# Tests
+tests/*/.cache
+
+# Stuff for people that use IDEs
+.netbeans
+.idea/*
+tags
+\.vscode/
+
+# Stuff for CI
+.port_ticket
+
+# https cert
+cert.key
+cert.crt
+
+# html coverage report created by pytest
+htmlcov
