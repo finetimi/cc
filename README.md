@@ -7,7 +7,7 @@ Steps to run
 ```console
 >> git clone https://github.com/finetimi/cc.git
 >> cd frontend
->> git npm install
+>> npm install
 >> npm start
 # visit browser on http://localhost:3000
 ```
