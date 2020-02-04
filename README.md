@@ -2,6 +2,9 @@
 
 ![Product Homepage](./homepage.png)
 
+## Architectural Overview
+![ Architecture](./architecture.png)
+
 
 Steps to run
 ```console
