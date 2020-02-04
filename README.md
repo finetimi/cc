@@ -17,7 +17,7 @@ Steps to run
 
 - [Create Collabs Homepage](https://www.createcollabs.com/)
 
-- [Create Collabs Slack](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
+- [Create Collabs Slack](https://createcollabs.slack.com/)
 
 - [Material Dashboard Theme](./material-dashboard-pro-react-v1.3.0.zip) 
 
